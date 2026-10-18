@@ -1,0 +1,6 @@
+{
+  "name": "AuraWave TTS Studio",
+  "description": "Next-generation neural text-to-speech studio with expressive voice design, dual-speaker screenplay dialogue, and studio mastering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
